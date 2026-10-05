@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Medical Center",
+  "description": "Premier academic healthcare institution delivering compassionate patient care, advanced surgical robotics, 24/7 Level 1 trauma emergency services, and leading medical specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
